@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="MiradorSantaRosa.jpeg" alt="Banner Luis Bautista" width="100%" />
+</p>
+
 <h1 align="center">Hey there! I'm Luis Bautista 👋</h1>
 
 <p align="center">
