@@ -5,7 +5,7 @@
 <h1 align="center">Hey there! I'm Luis Bautista 👋</h1>
 
 <p align="center">
-  📊 Statistician | 🤖 Data Science & Machine Learning Enthusiast
+📊 Statistician | 🤖 Data Science | 🧠 Machine Learning | 🕸️ Deep Learning
 </p>
 
 ---
