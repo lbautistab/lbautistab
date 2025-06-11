@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Bannner.jpg" alt="Banner Luis Bautista" width="70%" />
+  <img src="Bannner.jpg" alt="Banner Luis Bautista" width="100%" />
 </p>
 
 <h1 align="center">Hey there! I'm Luis Bautista 👋</h1>
@@ -16,13 +16,9 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SPSS](https://img.shields.io/badge/-SPSS-1A4FA3?style=flat&logo=spss&logoColor=white)
-![STATA](https://img.shields.io/badge/-STATA-003B6F?style=flat&logo=stata&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
