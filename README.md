@@ -75,9 +75,17 @@ Adventure, discipline, and freedom are values I live by—whether on a mountain 
 
 📬 **Email:** [lbautistab@pucp.edu.pe](mailto:lbautistab@pucp.edu.pe)  
 🔗 **LinkedIn:** [luisbautista2](https://www.linkedin.com/in/luisbautista2/)  
-💻 **GitHub:** [github.com/lbautistab](https://github.com/lbautistab)      
+💻 **GitHub:** [github.com/lbautistab](https://github.com/lbautistab)
+📺 **YouTube:** [@StatEdx](https://www.youtube.com/@StatEdx)  
 📸 **Instagram:** [@cholitoaventurero](https://www.instagram.com/cholitoaventurero)    
 🎵 **TikTok:** [@cholitomotero](https://www.tiktok.com/@cholitomotero)
+
+[![Email](https://img.shields.io/badge/Email-lbautistab%40pucp.edu.pe-blue?logo=gmail)](mailto:lbautistab@pucp.edu.pe)
+[![GitHub](https://img.shields.io/badge/GitHub-lbautistab-181717?logo=github)](https://github.com/lbautistab)
+[![Instagram](https://img.shields.io/badge/Instagram-@cholitoaventurero-E4405F?logo=instagram)](https://instagram.com/cholitoaventurero)
+[![TikTok](https://img.shields.io/badge/TikTok-@cholitomotero-000000?logo=tiktok)](https://www.tiktok.com/@cholitomotero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisbautista2-0A66C2?logo=linkedin)](https://www.linkedin.com/in/luisbautista2/)
+[![YouTube](https://img.shields.io/badge/YouTube-@StatEdx-FF0000?logo=youtube)](https://www.youtube.com/@StatEdx)
 
 ---
 
