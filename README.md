@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MiradorSantaRosa2.png" alt="Banner Luis Bautista" width="100%" />
+  <img src="Bannner.jpg" alt="Banner Luis Bautista" width="100%" />
 </p>
 
 <h1 align="center">Hey there! I'm Luis Bautista 👋</h1>
