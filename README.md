@@ -73,10 +73,10 @@ Adventure, discipline, and freedom are values I live by—whether on a mountain 
 
 ### 🌍 Let's Connect
 
-📬 **Email:** [lbautistab@pucp.edu.pe](mailto:lbautistab@pucp.edu.pe)
-🔗 **LinkedIn:** [luisbautista2](https://www.linkedin.com/in/luisbautista2/)
-💻 **GitHub:** [github.com/lbautistab](https://github.com/lbautistab)  
-📸 **Instagram:** [@cholitoaventurero](https://www.instagram.com/cholitoaventurero)  
+📬 **Email:** [lbautistab@pucp.edu.pe](mailto:lbautistab@pucp.edu.pe)  
+🔗 **LinkedIn:** [luisbautista2](https://www.linkedin.com/in/luisbautista2/)  
+💻 **GitHub:** [github.com/lbautistab](https://github.com/lbautistab)      
+📸 **Instagram:** [@cholitoaventurero](https://www.instagram.com/cholitoaventurero)    
 🎵 **TikTok:** [@cholitomotero](https://www.tiktok.com/@cholitomotero)
 
 ---
