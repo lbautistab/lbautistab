@@ -1,16 +1,46 @@
 <p align="center">
-  <img src="Bannner.jpg" alt="Banner Luis Bautista" width="100%" />
+  <img src="Bannner.jpg" alt="Banner de Luis Bautista" width="100%" />
 </p>
 
-<h1 align="center">Hey there! I'm Luis Bautista 👋</h1>
+<h1 align="center">¡Hola! Soy Luis Bautista 👋</h1>
 
 <p align="center">
-📊 Statistician | 🤖 Data Science | 🧠 Machine Learning | 🕸️ Deep Learning
+📊 Estadístico &nbsp;|&nbsp; 🤖 Ciencia de datos &nbsp;|&nbsp; 🧠 Machine learning &nbsp;|&nbsp; 🕸️ Deep learning
+</p>
+
+<p align="center">
+  <a href="https://lbautistab.github.io/quant-scientist-portfolio/"><img src="https://img.shields.io/badge/Portafolio-QUANT%20SCIENTIST-000000?style=for-the-badge&labelColor=22D3EE" alt="Portafolio QUANT SCIENTIST" /></a>
 </p>
 
 ---
 
-### 🧠 Skills
+### 🚀 Sobre mí
+
+🎓 Licenciado en Estadística (UNMSM) y Magíster en Estadística (PUCP); actualmente estudio Ingeniería de Sistemas.  
+📚 Aprendo de forma continua y disfruto aplicar modelos estadísticos y de machine learning a problemas reales.  
+🧪 Me gusta experimentar con técnicas nuevas, crear visualizaciones con impacto y construir soluciones con propósito.  
+🌍 Busco desarrollar proyectos que apoyen la toma de decisiones basada en datos.
+
+---
+
+### 🔬 Portafolio QUANT SCIENTIST
+
+Un sitio con experimentos estadísticos interactivos que se ejecutan en el navegador, construidos sobre una biblioteca estadística propia y probada:
+
+| Experimento | Qué muestra |
+|---|---|
+| Teorema del límite central | Cómo cambia la forma de la media muestral con n, por simulación Monte Carlo |
+| Inferencia bayesiana | Actualización Beta-Binomial exacta con intervalos creíbles |
+| Evaluación de modelos | Por qué discriminación (ROC-AUC) y calibración no son lo mismo |
+| Sobreajuste y validación cruzada | La curva en U del error y cómo la validación cruzada elige el modelo |
+| Bootstrap | Intervalos por remuestreo y su cobertura real |
+| Paradoja de Simpson | Cómo una variable de confusión puede invertir una tendencia |
+
+🔗 [Ver el portafolio](https://lbautistab.github.io/quant-scientist-portfolio/) · 💻 [Código fuente](https://github.com/lbautistab/quant-scientist-portfolio)
+
+---
+
+### 🧠 Herramientas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
@@ -25,58 +55,48 @@
 
 ---
 
-### 🚀 About Me
+### 📈 Áreas de interés
 
-🎓 I'm a **Statistician** with a deep passion for data analysis, data science, and machine learning.  
-📚 I'm a lifelong learner who enjoys applying statistical models and machine learning to real-world problems.  
-🧪 I love experimenting with new techniques, creating impactful data visualizations, and building solutions with purpose.  
-🌍 I aim to develop projects that support data-driven decision-making.
-
----
-
-### 📈 Areas of Interest
-
-🔎 Data Analysis and Applied Statistics  
-📉 Predictive Modeling and Machine Learning  
-🌐 Data Visualization and Storytelling  
-🧠 Data-Driven Decision Making  
-📊 Statistical Simulations and Advanced Modeling  
+🔎 Análisis de datos y estadística aplicada  
+📉 Modelamiento predictivo y machine learning  
+🌐 Visualización de datos y storytelling  
+🧠 Toma de decisiones basada en datos  
+📊 Simulación estadística y modelamiento avanzado  
 
 ---
 
-### 💡 Projects I've Worked On
+### 💡 Proyectos en los que he trabajado
 
-📱 Flask-based application to predict plant species.  
-🤖 Customer churn prediction model for a telecommunications company  
-📊 Educational dashboard in Power BI for tracking school performance  
-📱 FastAPI-based application to predict customer default.  
-🧪 Statistical simulations in Python and R for academic research  
-🌄 Personal visualizations of hiking and mountain data with GPS integration  
-
----
-
-### ✨ Personal Interests
-
-🏍️ Traveling long distances on my motorcycle  
-🥾 Trekking through trails and remote landscapes  
-🧗‍♂️ Climbing mountains and snowy peaks  
-🚴‍♂️ Riding my bicycle through the city and countryside  
-🏋️‍♂️ Staying active at the gym and working on my fitness
-
-Adventure, discipline, and freedom are values I live by—whether on a mountain trail or in the world of data.
+📱 Aplicación en Flask para predecir especies de plantas  
+🤖 Modelo de predicción de fuga de clientes (churn) para una empresa de telecomunicaciones  
+📊 Dashboard educativo en Power BI para el seguimiento del rendimiento escolar  
+📱 Aplicación en FastAPI para predecir el incumplimiento de pago de clientes  
+🧪 Simulaciones estadísticas en Python y R para investigación académica  
+🌄 Visualizaciones personales de rutas de montaña con datos GPS  
 
 ---
 
-### 🌍 Let's Connect
+### ✨ Fuera de los datos
 
-[![Email](https://img.shields.io/badge/Email-lbautistab%40pucp.edu.pe-blue?logo=gmail)](mailto:lbautistab@pucp.edu.pe)  
-[![GitHub](https://img.shields.io/badge/GitHub-lbautistab-181717?logo=github)](https://github.com/lbautistab)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisbautista2-0A66C2?logo=linkedin)](https://www.linkedin.com/in/luisbautista2/)  
-[![YouTube](https://img.shields.io/badge/YouTube-@StatEdx-FF0000?logo=youtube)](https://www.youtube.com/@StatEdx)  
+🏍️ Viajar largas distancias en moto  
+🥾 Hacer trekking por senderos y paisajes remotos  
+🧗‍♂️ Escalar montañas y nevados  
+🚴‍♂️ Recorrer la ciudad y el campo en bicicleta  
+🏋️‍♂️ Mantenerme activo en el gimnasio  
+
+Aventura, disciplina y libertad son valores con los que vivo, ya sea en un sendero de montaña o en el mundo de los datos.
+
+---
+
+### 🌍 Conectemos
+
+[![Correo](https://img.shields.io/badge/Correo-lbautistab%40pucp.edu.pe-blue?logo=gmail)](mailto:lbautistab@pucp.edu.pe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisbautista2-0A66C2?logo=linkedin)](https://www.linkedin.com/in/luisbautista2/)
+[![YouTube](https://img.shields.io/badge/YouTube-@StatEdx-FF0000?logo=youtube)](https://www.youtube.com/@StatEdx)
+[![Portafolio](https://img.shields.io/badge/Portafolio-QUANT%20SCIENTIST-000000?logo=githubpages)](https://lbautistab.github.io/quant-scientist-portfolio/)
 
 ---
 
 <p align="center">
-  Thanks for stopping by 🙌 Always open to new collaborations and challenges!
+  Gracias por pasar por aquí 🙌 Siempre abierto a nuevas colaboraciones y desafíos.
 </p>
-
